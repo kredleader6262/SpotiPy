@@ -1,0 +1,4 @@
+config.ini
+downloads
+downloads/*
+.cache
